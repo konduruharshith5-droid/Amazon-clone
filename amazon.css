@@ -467,3 +467,20 @@ body {
     background-color: white;
     margin-left: 20px;
 }
+
+.hero-div3-caption {
+    height: 15%;
+    width: 100%;
+}
+
+.hero-div3-caption p {
+    padding-left: 20px;
+    padding-top: 20px;
+    font-size: 1.6rem;
+}
+
+.hero-div3-img {
+    height: 85%;
+    width: 100%;
+    background-color: black;
+}
