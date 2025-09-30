@@ -640,40 +640,9 @@ body {
     align-items: center;
 }
 
-.hero-div6-content {
-    height: 100%;
-    width: 67%;
-    background-color: white;
-}
-
 .hero-div6-img {
-    height: 95%;
-    width: 100%;
-    display: flex;
-}
-
-.hero-div6-img a {
-    display: flex;
-    width: 60%;
-}
-
-.hero-div6-caption {
-    height: 5%;
-    width: 100%;
-    display: flex;
-    justify-content: right;
-    align-items: center;
-    background-color: #e3e6e6;
-}
-
-.hero-div6-caption p {
-    margin-right: 10px;
-    margin-top: 5px;
-}
-
-.hero-div6-img-caption {
-    height: 100%;
-    width: 40%;
+    height: 87%;
+    width: 68%;
 }
 
 /* hero-div7 */
@@ -685,5 +654,54 @@ body {
     top: 2600px;
     left: 0;
     margin-left: 20px;
-    background-color: black;
+    background-color: white;
+}
+
+.hero-div7-div1 {
+    height: 10%;
+    width: 100%;
+    display: flex;
+    align-items: flex-end;
+    color: black;
+}
+
+.hero-div7-div1 span  {
+    font-size:1.4rem;
+    margin-left: 20px;
+    margin-bottom: 3px;
+}
+
+.hero-div7-div1 a {
+    margin-left: 15px;
+    margin-bottom: 5px;
+}
+
+.hero-div7-div2 {
+    height: 85%;
+    width: 97%;
+    background-color: green;
+    display: flex;
+    margin: 0 auto;
+}
+
+.hero-div7-div2-div1 {
+    height: 100%;
+    width: 30%;
+}
+
+.hero-div7-div2-div1-video {
+    height: 90%;
+    width: 100%;
+    background-color: orange;
+}
+
+.hero-div7-div2-div1-caption {
+    height: 10%;
+    width: 100%;
+    background-color: blue;
+}
+
+.hero-div7-div2-div2 {
+    height: 100%;
+    width: 65%;
 }
