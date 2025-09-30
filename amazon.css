@@ -679,7 +679,6 @@ body {
 .hero-div7-div2 {
     height: 85%;
     width: 97%;
-    background-color: green;
     display: flex;
     margin: 0 auto;
 }
@@ -692,16 +691,77 @@ body {
 .hero-div7-div2-div1-video {
     height: 90%;
     width: 100%;
-    background-color: orange;
 }
 
 .hero-div7-div2-div1-caption {
     height: 10%;
     width: 100%;
-    background-color: blue;
 }
 
 .hero-div7-div2-div2 {
     height: 100%;
     width: 65%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-left: 25px;
+}
+
+.hero-div7-div2-div2-img1 {
+    height: 98%;
+    width: 20%;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+
+.hero-div7-div2-div2-imgsection {
+    height: 45%;
+    width: 100%;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.hero-div7-div2-div2-caption {
+    height: 51%;
+    width: 100%;
+}
+
+.hero-div7-div2-div2-caption1 {
+    height: 30%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.hero-div7-div2-div2-caption2 {
+    height: 30%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero-div7-div2-div2-caption2-1 {
+    height: 80%;
+    width: 40%;
+    background-color: red;
+    color: white;
+    margin-left: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 3px;
+}
+
+.hero-div7-div2-div2-caption2-2 {
+    height: 80%;
+    width: 60%;
+    color: red;
+    margin-left: 5px;
+}
+
+.hero-div7-div2-div2-caption3 {
+    height: 30%;
+    width: 100%;
 }
